@@ -1,0 +1,107 @@
+body{
+  margin: 0px;
+  font-family: "satoshi";
+  font-size: 1.15em;
+}
+h1{
+  color: #14279B;
+}
+.first{
+  background-color: #E6E6E6;
+  color: #14279B;
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 100px;
+  margin: 0px;
+}
+.profile{
+  background-color: #FFFFFF;
+  color: #14279B;
+  font-size: 1.1em;
+  text-align: center;
+  padding: 50px;
+  margin: 0px;
+  font-family: "satoshi";
+}
+.contact-me{
+  background-color: #E6E6E6;
+  color: #14279B;
+  font-size: 1.1em;
+  text-align: center;
+  padding:  50px ;
+  margin-left: 0px;
+
+  font-family: "satoshi";
+}
+
+
+.bottom-container{
+  background-color: white;
+  text-align: center;
+  font-family: "satoshi";
+}
+
+.header-image{
+  width: 15%;
+}
+.skills{
+  text-align: center;
+  margin : 50px auto 50px auto;
+}
+.graphic-design{
+  text-align: left;
+  margin:40px auto 100px auto;
+  width: 60%;
+  line-height: 1.6;
+}
+.web-dev{
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 60%;
+  line-height: 1.6;
+}
+.gd{
+  float: left;
+  margin-right: 50px;
+}
+.wd{
+  float: right;
+  margin-left: 50px;
+}
+p{
+  color: black;
+  position: relative;
+  bottom:15px;
+}
+img{
+  border-radius:25px;
+}
+hr{
+  color: #1B1B1B;
+  border: 3px;
+  border-top: 0;
+  border-style: dotted;
+  width: 60%;
+}
+h3{
+  color: #14279B;
+}
+
+.button {
+  background-color: white;
+  color: #14279B;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: "satoshi";
+  cursor: pointer;
+  border-radius: 30px;
+  border-color: #14279B;
+  border: 3px;
+}
+.button:hover{
+  color: white;
+  background-color: #14279B;
+}
